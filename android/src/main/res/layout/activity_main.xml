@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/tab_home"
+            android:onClick="fragmclick"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/selected_home_tab" />
+        <RadioButton
+            android:id="@+id/tab_classify"
+            android:onClick="fragmclick"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableTop="@drawable/selected_classify_tab" />
+        <RadioButton
+            android:id="@+id/tab_cart"
+            android:onClick="fragmclick"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableTop="@drawable/selected_cart_tab" />
+        <RadioButton
+            android:id="@+id/tab_me"
+            android:onClick="fragmclick"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableTop="@drawable/selected_me_tab" />
+
+    </LinearLayout>
+
+</LinearLayout>

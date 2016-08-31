@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <com.fn.www.widget.ChildViewPager
+        android:id="@+id/vPager"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#FFFFFF"
+        android:flipInterval="30"
+        android:persistentDrawingCache="animation" />
+
+    <RadioGroup
+        android:layout_marginTop="-25dp"
+        android:id="@+id/radiogroup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="8dp" >
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/page_indicator_unfocused"
+            android:button="@null"
+            android:gravity="center" >
+        </RadioButton>
+    </RadioGroup>
+
+</LinearLayout>

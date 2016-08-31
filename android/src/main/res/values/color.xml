@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#ff000000</color>
+    <color name="yellow">#FED72B</color>
+    <color name="green">#00A350</color>
+    <color name="line">#ffc9c9c9</color>
+    <color name="transparency">#00000000</color>
+    <color name="blue">#A4ABD8</color>
+    <color name="background_tab_pressed">#8833B5E5</color>
+    <color name="home_color">#EEEEEE</color>
+    <color name="title_color">#454545</color>
+    <color name="icon_color">#FF3366</color>
+    <color name="me_color">#EEEEEE</color>
+    <color name="me_tv">#818181</color>
+    <color name="appbg">#ffeeeeee</color>
+    <color name="red">#BD002C</color>
+    <color name="instead_red">#F31445</color>
+    <color name="address_color">#F21548</color>
+    <color name="pink">#F21548</color>
+    <color name="gray">#787878</color>
+    <color name="order_color">#F6F6F6</color>
+    <color name="gray2">#9C9C9C</color>
+    <color name="gray3">#B4B4B4</color>
+    <color name="high_return">#C0C0C0</color>
+    <color name="high_return_text">#575757</color>
+    <color name="translucencen">#e0000000</color>
+    <color name="search_color">#EFEFEF</color>
+    <color name="tv_use">#666666</color>
+    <color name="search_bg">#d21a58</color>
+    <color name="pop_share_color">#b3b3b3</color>
+    <color name="shake_his_bg">#F2F2F2</color>
+    <color name="shake_line">#ECECEC</color>
+    <color name="my_shake">#676767</color>
+    <color name="tmall_red">#DF231A</color>
+    <color name="banner_dot_gray">#ff242424</color>
+    <color name="banner_dot_red">#fff53e7b</color>
+    <color name="base_color_0">#fff53e7b</color>
+    <color name="base_color_1">#ff333333</color>
+    <color name="base_color_2">#ff666666</color>
+    <color name="base_color_3">#ff999999</color>
+    <color name="base_color_4">#ffeeeeee</color>
+    <color name="base_color_5">#ffe5e5e5</color>
+    <color name="base_color_6">#ffffffff</color>
+    <color name="button_gray">#ffdcdcdc</color>
+    <color name="common_bg">#fff0f0f0</color>
+    <color name="custom_theme_color">#ffffffff</color>
+    <color name="half_transparent">#90000000</color>
+    <color name="holo_blue">#ff33e5b5</color>
+    <color name="pink_bt_n">#ffff2d87</color>
+    <color name="pink_bt_p">#ffff4d87</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="text_6">#ff666666</color>
+    <color name="text_color_black">#ff000000</color>
+    <color name="text_color_gray">#ff575757</color>
+    <color name="text_color_gray6">#ff666666</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_corner">#ffec217d</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="dh_bg">#FFFFFF</color>
+    <color name="dh_bg2">#333333</color>
+    <color name="title_bg">#fcfcfc</color>
+    <color name="whites">#A9A9A9</color>
+    <color name="white_tr">#eeffffff</color>
+    <color name="main_color">#FF3366</color>
+    <color name="dh_color">#fff94e</color>
+    <color name="grays">#cccccc</color>
+    <color name="transparents">#00000000</color>
+    <color name="loading">#333333</color>
+    <color name="txtDefault">#666666</color>
+
+    
+    <color name="app_color_primary">#ffc20053</color>
+
+
+
+</resources>
