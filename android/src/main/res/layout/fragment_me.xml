@@ -14,5 +14,10 @@
         android:layout_height="wrap_content"
         android:text="商品收藏"
         android:id="@+id/cllction_goods" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我的订单"
+        android:id="@+id/btn_meorder" />
 
 </LinearLayout>
