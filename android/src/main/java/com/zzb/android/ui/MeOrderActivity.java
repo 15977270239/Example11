@@ -17,13 +17,19 @@ public class MeOrderActivity extends Activity implements View.OnClickListener{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_collctionshopp);
+        initView();
     }
     public void initView(){
-
+        back=(ImageView)findViewById(R.id.back);
+        back.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View view) {
-
+        switch (view.getId()){
+            case R.id.back:
+                finish();
+                break;
+        }
     }
 }
