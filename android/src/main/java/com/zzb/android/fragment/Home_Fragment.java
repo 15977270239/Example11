@@ -110,7 +110,7 @@ public class Home_Fragment extends Fragment {
             public void run() {
                 while (isContinue) {
                     SystemClock.sleep(5000);
-                    handler1.sendEmptyMessage(0);// 姣忛殧涓€绉?鍙戜竴涓┖娑堟伅 婊氬姩涓€娆?
+                    handler1.sendEmptyMessage(0);
                 }
             };
         };
